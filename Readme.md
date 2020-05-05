@@ -1,6 +1,6 @@
 # Como criar uma solução completa de Data Science (Curso ministrado por Mário Filho)
 
-    É extremamente importante definir corretamente o problema a ser abordado, a fim de avaliar a viabilidade de uma solução baseada em dados. O primeiro no início de qualquer projeto dessa natureza deve ser a determinação da sua continuidade. Esse projeto irá utilizar o conhecimento obtido no curso do Cientista de Dados Mário Filho, para criar uma lista de recomendação de vídeos mais relevantes sobre finanças e investimentos. Nas linhas a seguir, serão seguidos os passos indicados pelo instrutor, alterando o escopo do projeto para o assunto de interesse.
+É extremamente importante definir corretamente o problema a ser abordado, a fim de avaliar a viabilidade de uma solução baseada em dados. O primeiro no início de qualquer projeto dessa natureza deve ser a determinação da sua continuidade. Esse projeto irá utilizar o conhecimento obtido no curso do Cientista de Dados Mário Filho, para criar uma lista de recomendação de vídeos mais relevantes sobre finanças e investimentos. Nas linhas a seguir, serão seguidos os passos indicados pelo instrutor, alterando o escopo do projeto para o assunto de interesse.
 
 
 ## Módulo 1: Definindo o problema
