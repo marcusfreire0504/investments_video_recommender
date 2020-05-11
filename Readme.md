@@ -41,6 +41,13 @@ No nosso contexto, podemos definir as seguintes métricas:
 
 A definição correta de métricas permite atestar o valor da solução e provar para o cliente o valor agregado que estamos entregando.
 
+**Critérios de busca**  
+Nesse projeto, os vídeos serão buscados a partir das seguintes palavras-chave (queries):  
+* investimentos
+* finanças
+* independência financeira
+
+Além disso, os vídeos serão ordenador por *Relevância*. O notebook de coleta de dados explica as considerações para a extração de dados das páginas do Youtube.
 
 
 
