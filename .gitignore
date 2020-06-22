@@ -130,3 +130,5 @@ dmypy.json
 
 # support folders
 paginas_web
+paginas_videos
+datasets/parsed_videos_info.json
